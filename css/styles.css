@@ -5,7 +5,11 @@
 .sidebar {
   float: right;
   background-color: coral;
-  color: blue;
+  color: rgb(75, 75, 239);
+  border: 5px solid lightgreen;
+  padding: 15px;
+  margin: 25px;
+  box-sizing: border-box;
 }
 
 body{
