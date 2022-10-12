@@ -1,9 +1,13 @@
 .webpage {
-  text-align: center;
+  text-align:center;
 }
 
 .sidebar {
   float: right;
   background-color: coral;
   color: blue;
+}
+
+body{
+  background-color: lightblue;
 }
