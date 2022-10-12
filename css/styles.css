@@ -10,8 +10,15 @@
   padding: 15px;
   margin: 25px;
   box-sizing: border-box;
+  width: auto;
 }
 
 body{
   background-color: lightblue;
+}
+
+.centered-image {
+  width: 50%;
+  height: auto;
+  margin: auto;
 }
