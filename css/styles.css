@@ -1,0 +1,9 @@
+.webpage {
+  text-align: center;
+}
+
+.sidebar {
+  float: right;
+  background-color: coral;
+  color: blue;
+}
